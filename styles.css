@@ -85,12 +85,12 @@
     margin-left: 2rem;
 }
 .hh2 {
-    background-color: rgb(161, 110, 140);
+    background-color: rgb(161, 152, 158);
     display: initial;
-    padding: 0% 4.2rem;
+    padding: 0% 1rem;
     font-family: 'Caveat Brush';
     color: aliceblue;
-    font-size: 3rem;
+    font-size: 2.4rem;
 }
 /* ! Hobbies */
 .img-hobby {
@@ -112,6 +112,7 @@
 
 #ler {
     display: flex;
+    margin-top: 3rem;
     margin-bottom: 2rem;
 }
 #p2 {
@@ -172,7 +173,7 @@
         margin-bottom: 3rem
     }
     
-    #resto {padding-top: 3rem;}
+    #resto {padding-top: 1rem;}
     .hh1 {
         font-size: 3rem;
     }
