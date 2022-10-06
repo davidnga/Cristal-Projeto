@@ -93,6 +93,12 @@
     font-size: 2.4rem;
 }
 /* ! Hobbies */
+.opacity-0 {
+    opacity: 0;
+}
+.opacity {
+    opacity: 1;
+}
 .img-hobby {
     border-radius: 20%;
     border: 0.2rem solid rgb(87, 76, 63);
@@ -102,10 +108,12 @@
 }
 
 .animate{
+
     animation-name: img-book;
     animation-duration: 4s;
 }
 .animate-2 {
+
     animation-name: img-fut;
     animation-duration: 4s;
 }
